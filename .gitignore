@@ -1,0 +1,5 @@
+﻿*.log
+uvicorn.out.log
+uvicorn.err.log
+config.yaml
+data/
